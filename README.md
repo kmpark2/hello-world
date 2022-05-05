@@ -1,5 +1,3 @@
-# hello-world
-GitHub tutorial repository
 # Hello
 ## I am an aspiring programmer
 ### I wish to learn to enrich myself with good programming skills
